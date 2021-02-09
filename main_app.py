@@ -45,3 +45,5 @@ if action == "read":
     read_and_display_note(user_details["id"])
 else:
     print("NO VALID ACTION SELECTED.")
+
+print("END OF PROGRAM")
